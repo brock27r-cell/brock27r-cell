@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+### My name is Reagan, and I'm a student 
+### Dr. Siegle is my teacher for my AI class
+#### I love being active and reading 
 <!--
 **brock27r-cell/brock27r-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
